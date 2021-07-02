@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "Veggie",
+      "name": "Veggiee",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
       "available": true,
@@ -21,8 +21,24 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "Texto do novo prato",
+      "name": "Ovo frito",
+      "price": "12,90",
+      "description": "Melhor do brasil",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "macarrao",
+      "name": "macarrao",
+      "price": "50",
+      "description": "macarrao",
+      "available": true,
+      "id": 7
     }
   ]
 }
